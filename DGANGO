@@ -1,0 +1,544 @@
+======================================================
+Application State
+App Version
+"24.13.0 (22032)"
+
+Platform Information
+{
+Name: "iPhone",
+Brand: "Apple",
+Manufacturer: "Apple",
+Model: "iPhone XR",
+OS Name: "iOS",
+OS Version: "17.5.1",
+Biometric Enabled: true,
+Memory Total: 2972254208,
+Used Memory: 344555520,
+Free Disk Storage: 42707722240
+}
+
+Display Language
+"English"
+
+Device Id
+"7d362cdd-a8c3-408e-a206-844befb8a98b"
+
+All Accounts
+[
+{
+name: "Account 1",
+icon: {
+unicode: "💎",
+type: "emoji"
+},
+balance: {
+timestamp: 1723192781231,
+value: 0
+},
+identifier: "47686f8507afbe2463c6a12d0be02725de6b1f27b2d835f50f0eee7b171906d0",
+addresses: [
+{
+networkID: "solana:101",
+addressType: "solana",
+address: "A9zDXqYWJoPHuLP1ubRdLkM4SGbs373Zizx4rLxpXy8i"
+},
+{
+networkID: "eip155:1",
+addressType: "eip155",
+address: "0xAF938e9fDbF78F8e39Fb185c1c940fF07Df5561e"
+},
+{
+networkID: "eip155:137",
+addressType: "eip155",
+address: "0xAF938e9fDbF78F8e39Fb185c1c940fF07Df5561e"
+},
+{
+networkID: "bip122:000000000019d6689c085ae165831e93",
+addressType: "bip122_p2wpkh",
+publicKey: {
+0: 3,
+1: 73,
+2: 84,
+3: 174,
+4: 22,
+5: 150,
+6: 122,
+7: 29,
+8: 195,
+9: 28,
+10: 218,
+11: 175,
+12: 122,
+13: 220,
+14: 22,
+15: 206,
+16: 157,
+17: 33,
+18: 250,
+19: 81,
+20: 24,
+21: 198,
+22: 108,
+23: 186,
+24: 152,
+25: 28,
+26: 20,
+27: 110,
+28: 51,
+29: 243,
+30: 126,
+31: 205,
+32: 150
+},
+address: "bc1q309lgd8cm2w5nzzfpdnvjlk4a267pua2qujtz5"
+},
+{
+networkID: "bip122:000000000019d6689c085ae165831e93",
+addressType: "bip122_p2tr",
+publicKey: {
+0: 2,
+1: 35,
+2: 200,
+3: 184,
+4: 246,
+5: 52,
+6: 135,
+7: 159,
+8: 95,
+9: 146,
+10: 73,
+11: 86,
+12: 19,
+13: 131,
+14: 50,
+15: 193,
+16: 195,
+17: 17,
+18: 186,
+19: 186,
+20: 30,
+21: 124,
+22: 42,
+23: 56,
+24: 114,
+25: 242,
+26: 189,
+27: 230,
+28: 110,
+29: 103,
+30: 196,
+31: 182,
+32: 242
+},
+address: "bc1pwstcnaufygmwhm6ugm52qh7pfuf5d54ac0vsn7ewkkrtqheec6rqdwllat"
+}
+],
+type: "seed",
+rootID: "43fc43f60307b6da445814deb581bb8903e0d0ee2b177cb6b3cb3092f2651c97",
+isReadOnly: false
+}
+]
+
+Selected Account
+{
+name: "Account 1",
+icon: {
+unicode: "💎",
+type: "emoji"
+},
+balance: {
+timestamp: 1723192781231,
+value: 0
+},
+identifier: "47686f8507afbe2463c6a12d0be02725de6b1f27b2d835f50f0eee7b171906d0",
+addresses: [
+{
+networkID: "solana:101",
+addressType: "solana",
+address: "A9zDXqYWJoPHuLP1ubRdLkM4SGbs373Zizx4rLxpXy8i"
+},
+{
+networkID: "eip155:1",
+addressType: "eip155",
+address: "0xAF938e9fDbF78F8e39Fb185c1c940fF07Df5561e"
+},
+{
+networkID: "eip155:137",
+addressType: "eip155",
+address: "0xAF938e9fDbF78F8e39Fb185c1c940fF07Df5561e"
+},
+{
+networkID: "bip122:000000000019d6689c085ae165831e93",
+addressType: "bip122_p2wpkh",
+publicKey: {
+0: 3,
+1: 73,
+2: 84,
+3: 174,
+4: 22,
+5: 150,
+6: 122,
+7: 29,
+8: 195,
+9: 28,
+10: 218,
+11: 175,
+12: 122,
+13: 220,
+14: 22,
+15: 206,
+16: 157,
+17: 33,
+18: 250,
+19: 81,
+20: 24,
+21: 198,
+22: 108,
+23: 186,
+24: 152,
+25: 28,
+26: 20,
+27: 110,
+28: 51,
+29: 243,
+30: 126,
+31: 205,
+32: 150
+},
+address: "bc1q309lgd8cm2w5nzzfpdnvjlk4a267pua2qujtz5"
+},
+{
+networkID: "bip122:000000000019d6689c085ae165831e93",
+addressType: "bip122_p2tr",
+publicKey: {
+0: 2,
+1: 35,
+2: 200,
+3: 184,
+4: 246,
+5: 52,
+6: 135,
+7: 159,
+8: 95,
+9: 146,
+10: 73,
+11: 86,
+12: 19,
+13: 131,
+14: 50,
+15: 193,
+16: 195,
+17: 17,
+18: 186,
+19: 186,
+20: 30,
+21: 124,
+22: 42,
+23: 56,
+24: 114,
+25: 242,
+26: 189,
+27: 230,
+28: 110,
+29: 103,
+30: 196,
+31: 182,
+32: 242
+},
+address: "bc1pwstcnaufygmwhm6ugm52qh7pfuf5d54ac0vsn7ewkkrtqheec6rqdwllat"
+}
+],
+type: "seed",
+rootID: "43fc43f60307b6da445814deb581bb8903e0d0ee2b177cb6b3cb3092f2651c97",
+isReadOnly: false
+}
+
+Selected Networks
+["Solana", "Ethereum", "Polygon", "Bitcoin"]
+
+Analytics Opt Out
+false
+
+Preferred Explorers
+{
+version: 1,
+explorers: {
+Solana: "solana-beach",
+Solana Testnet: "solana-beach",
+Solana Devnet: "solana-beach",
+Solana Localnet: "solscan",
+Ethereum: "etherscan",
+Ethereum Sepolia: "etherscan",
+Polygon: "polygonscan",
+Polygon Amoy: "polygonscan",
+Bitcoin: "mempool",
+Bitcoin Testnet: "mempool"
+}
+}
+
+Trusted Apps
+{
+version: 1,
+apps: {
+47686f8507afbe2463c6a12d0be02725de6b1f27b2d835f50f0eee7b171906d0: {
+https://labs.staratlas.com: {
+dappMeta: {
+appUrl: "https://labs.staratlas.com",
+title: "SAGE Labs"
+},
+lastConnectedTimestamp: 1723192914292,
+autoConfirm: {
+networks: {
+solana:101: false
+},
+maxSessionDuration: 7200,
+sessionStartTime: 1723193684560
+}
+}
+}
+}
+}
+
+Browser State
+{
+activeTabIndex: 0,
+tabs: [
+{
+id: "fa5d09af-14f3-442c-91a4-aa0e9e44c93d",
+url: "https://labs.staratlas.com/",
+index: 0,
+canGoForward: false,
+canGoBackward: false,
+isLoaded: true,
+title: "SAGE Labs",
+screenshotUri: "[SCREENSHOT PRESENT]",
+screenshotAspectRatio: 0.5751533742331288
+}
+]
+}
+
+Async Storage
+{
+onboardingDone: "done"
+}
+
+Async Simple Storage
+{
+latestCleanedStorageVersion: "24.13.0",
+pendingTransactions: {},
+userExplorerPreferenceV2: {
+version: 1,
+explorers: {
+bip122:000000000019d6689c085ae165831e93: "mempool",
+bip122:000000000933ea01ad0ee984209779ba: "mempool",
+eip155:1: "etherscan",
+eip155:11155111: "etherscan",
+eip155:137: "polygonscan",
+eip155:80002: "polygonscan",
+solana:101: "solana-beach",
+solana:102: "solana-beach",
+solana:103: "solana-beach",
+solana:localnet: "solscan"
+}
+},
+userTrustedApps: {
+version: 1,
+apps: {
+47686f8507afbe2463c6a12d0be02725de6b1f27b2d835f50f0eee7b171906d0: {
+https://labs.staratlas.com: {
+dappMeta: {
+appUrl: "https://labs.staratlas.com",
+title: "SAGE Labs"
+},
+lastConnectedTimestamp: 1723192914292,
+autoConfirm: {
+networks: {
+solana:101: false
+},
+maxSessionDuration: 7200,
+sessionStartTime: 1723193684560
+}
+}
+}
+}
+},
+.phantom-labs.account.accountMetadata: {
+version: 1,
+accounts: {
+47686f8507afbe2463c6a12d0be02725de6b1f27b2d835f50f0eee7b171906d0: {
+name: "Account 1",
+balance: {
+timestamp: 1723192781231,
+value: 0
+},
+icon: {
+unicode: "💎",
+type: "emoji"
+}
+}
+}
+},
+.phantom-labs.account.selectedAccount: {
+version: 2,
+identifier: "47686f8507afbe2463c6a12d0be02725de6b1f27b2d835f50f0eee7b171906d0"
+},
+termsHaveBeenAcknowledged2: true,
+firstTimeOnboarding: {
+isFirstTimeOnboarding: false
+},
+.phantom-labs.settings.interstitials: {
+version: 1,
+interstitialsSeen: {
+HelloBitcoin: 1
+}
+},
+.phantom-labs.vault.accounts: {
+version: 1,
+accounts: [
+{
+version: 1,
+type: "seed",
+identifier: "47686f8507afbe2463c6a12d0be02725de6b1f27b2d835f50f0eee7b171906d0",
+rootID: "43fc43f60307b6da445814deb581bb8903e0d0ee2b177cb6b3cb3092f2651c97",
+derivationIndex: 0,
+chains: {
+solana: {
+chainType: "solana",
+pathType: "bip44Change",
+publicKey: "A9zDXqYWJoPHuLP1ubRdLkM4SGbs373Zizx4rLxpXy8i"
+},
+eip155: {
+chainType: "eip155",
+pathType: "bip44Ethereum",
+publicKey: "0xAF938e9fDbF78F8e39Fb185c1c940fF07Df5561e"
+},
+bip122_p2tr: {
+chainType: "bip122_p2tr",
+pathType: "bitcoinTaproot",
+publicKey: {
+type: "Buffer",
+data: [2, 35, 200, 184, 246, 52, 135, 159, 95, 146, 73, 86, 19, 131, 50, 193, 195, 17, 186, 186, 30, 124, 42, 56, 114, 242, 189, 230, 110, 103, 196, 182, 242]
+},
+addresses: {
+bip122:000000000019d6689c085ae165831e93: "bc1pwstcnaufygmwhm6ugm52qh7pfuf5d54ac0vsn7ewkkrtqheec6rqdwllat",
+bip122:000000000933ea01ad0ee984209779ba: "tb1pwstcnaufygmwhm6ugm52qh7pfuf5d54ac0vsn7ewkkrtqheec6rq6xfs8y"
+}
+},
+bip122_p2wpkh: {
+chainType: "bip122_p2wpkh",
+pathType: "bitcoinNativeSegwit",
+publicKey: {
+type: "Buffer",
+data: [3, 73, 84, 174, 22, 150, 122, 29, 195, 28, 218, 175, 122, 220, 22, 206, 157, 33, 250, 81, 24, 198, 108, 186, 152, 28, 20, 110, 51, 243, 126, 205, 150]
+},
+addresses: {
+bip122:000000000019d6689c085ae165831e93: "bc1q309lgd8cm2w5nzzfpdnvjlk4a267pua2qujtz5",
+bip122:000000000933ea01ad0ee984209779ba: "tb1q309lgd8cm2w5nzzfpdnvjlk4a267pua226fce8"
+}
+}
+}
+}
+]
+},
+lastSeenPushNotificationPopupTimestamp: 1723192780664
+}
+
+======================================================
+Application Logs
+2024-08-09T08:38:55.753Z [INFO] App Startup: Initializing deviceId.
+2024-08-09T08:38:55.757Z [INFO] App Startup: Initializing feature flags.
+2024-08-09T08:38:56.269Z [INFO] App Startup: Checking if onboarding is done.
+2024-08-09T08:38:56.296Z [INFO] App Startup: ✅ Onboarding not yet complete. Showing onboarding.
+2024-08-09T08:38:56.302Z [INFO] generic: App Startup duration: 632 ms
+2024-08-09T08:39:02.190Z [INFO] generic: Visited screen: OnboardingProtect
+2024-08-09T08:39:07.885Z [INFO] generic: Visited screen: OnboardingImportOptions
+2024-08-09T08:39:13.238Z [INFO] generic: Visited screen: OnboardingImportRecoveryPhrase
+2024-08-09T08:39:28.388Z [INFO] generic: Visited screen: OnboardingImportMultiChainAccounts
+2024-08-09T08:39:35.988Z [INFO] account: Adding Multichain Account Metadata Batch: 1 entries
+2024-08-09T08:39:37.176Z [INFO] generic: Visited screen: OnboardingDone
+2024-08-09T08:39:39.769Z [INFO] generic: Visited screen: Home
+2024-08-09T08:39:39.842Z [INFO] account: Finished fetching all accounts. Num accounts: 1
+2024-08-09T08:39:39.932Z [INFO] account: Finished fetching selected account. account.id: 47686f8507afbe2463c6a12d0be02725de6b1f27b2d835f50f0eee7b171906d0
+2024-08-09T08:39:40.367Z [INFO] generic: Visited screen: Modals
+2024-08-09T08:39:41.234Z [INFO] account: Setting Multichain Account Balance
+2024-08-09T08:39:41.277Z [INFO] account: Finished fetching all accounts. Num accounts: 1
+2024-08-09T08:39:41.322Z [INFO] account: Finished fetching selected account. account.id: 47686f8507afbe2463c6a12d0be02725de6b1f27b2d835f50f0eee7b171906d0
+2024-08-09T08:39:45.990Z [INFO] generic: Visited screen: Home
+2024-08-09T08:39:54.341Z [INFO] generic: Visited screen: MultiChainYourAccounts
+2024-08-09T08:39:58.200Z [INFO] generic: Visited screen: Home
+2024-08-09T08:40:04.753Z [INFO] generic: Visited screen: FiatRampFungibles
+2024-08-09T08:40:07.084Z [INFO] generic: Visited screen: FiatRampForm
+2024-08-09T08:40:09.743Z [INFO] generic: Visited screen: FiatRampProviders
+2024-08-09T08:40:12.250Z [INFO] generic: Visited screen: FiatRampForm
+2024-08-09T08:40:13.332Z [INFO] generic: Visited screen: FiatRampFungibles
+2024-08-09T08:40:14.401Z [INFO] generic: Visited screen: Home
+2024-08-09T08:40:20.378Z [INFO] generic: Tab changed to SwapTab
+2024-08-09T08:40:20.465Z [INFO] generic: Visited screen: Swap
+2024-08-09T08:40:21.064Z [INFO] generic: Tab changed to ActivityTab
+2024-08-09T08:40:21.105Z [INFO] generic: Visited screen: Activity
+2024-08-09T08:40:26.395Z [INFO] generic: Tab changed to ExploreTab
+2024-08-09T08:40:26.595Z [INFO] generic: Visited screen: Explore
+2024-08-09T08:40:29.047Z [INFO] generic: Visited screen: MultiChainYourAccounts
+2024-08-09T08:40:31.494Z [INFO] account: Fetching Multichain Account with Identifier
+2024-08-09T08:40:31.495Z [INFO] generic: Visited screen: MultiChainEditAccount
+2024-08-09T08:40:32.596Z [INFO] generic: Visited screen: MultiChainAvatarPicker
+2024-08-09T08:41:04.982Z [INFO] account: Setting Multichain Account Icon
+2024-08-09T08:41:04.991Z [INFO] generic: Visited screen: Explore
+2024-08-09T08:41:05.209Z [INFO] account: Finished fetching all accounts. Num accounts: 1
+2024-08-09T08:41:05.553Z [INFO] account: Finished fetching selected account. account.id: 47686f8507afbe2463c6a12d0be02725de6b1f27b2d835f50f0eee7b171906d0
+2024-08-09T08:41:19.257Z [INFO] generic: Visited screen: DappBrowserSearchScreen
+2024-08-09T08:41:28.470Z [INFO] provider: Fetching dApps list for mobile provider
+2024-08-09T08:41:28.504Z [INFO] generic: Visited screen: TabbedBrowser
+2024-08-09T08:41:35.633Z [INFO] dappBrowser: Visiting: https://labs.staratlas.com/
+2024-08-09T08:42:29.867Z [INFO] settings: Setting Preferred Explorer default value in new Storage
+2024-08-09T08:51:18.632Z [INFO] Auto-Confirm: Enabling network ID solana:101: autoConfirm
+2024-08-09T08:51:31.140Z [INFO] Auto-Confirm: transaction on origin https://labs.staratlas.com for network mainnet auto-confirmed: autoConfirm
+2024-08-09T08:51:55.490Z [INFO] Auto-Confirm: transaction on origin https://labs.staratlas.com for network mainnet auto-confirmed: autoConfirm
+2024-08-09T08:54:39.681Z [INFO] Auto-Confirm: transaction on origin https://labs.staratlas.com for network mainnet auto-confirmed: autoConfirm
+2024-08-09T08:54:44.560Z [INFO] Auto-Confirm: Disabling network ID solana:101: autoConfirm
+2024-08-09T08:55:06.425Z [INFO] generic: Tab changed to ActivityTab
+2024-08-09T08:55:06.469Z [INFO] generic: Visited screen: Activity
+2024-08-09T08:55:19.519Z [INFO] generic: Visited screen: HistorySpamItems
+2024-08-09T08:55:21.517Z [INFO] generic: Visited screen: Activity
+2024-08-09T08:55:27.306Z [INFO] generic: Tab changed to SwapTab
+2024-08-09T08:55:27.351Z [INFO] generic: Visited screen: Swap
+2024-08-09T08:55:29.360Z [INFO] generic: Tab changed to CollectiblesTab
+2024-08-09T08:55:29.408Z [INFO] generic: Visited screen: YourCollectibles
+2024-08-09T08:55:31.021Z [INFO] generic: Tab changed to HomeTab
+2024-08-09T08:55:31.062Z [INFO] generic: Visited screen: Home
+2024-08-09T08:55:39.600Z [INFO] generic: Visited screen: Receive
+2024-08-09T08:55:44.856Z [INFO] generic: Visited screen: Home
+2024-08-09T08:55:48.674Z [INFO] generic: Visited screen: MultiChainSettings
+2024-08-09T08:55:51.884Z [INFO] generic: Visited screen: MultiChainYourAccounts
+2024-08-09T08:55:54.227Z [INFO] account: Fetching Multichain Account with Identifier
+2024-08-09T08:55:54.227Z [INFO] generic: Visited screen: MultiChainEditAccount
+2024-08-09T08:55:55.533Z [INFO] generic: Visited screen: MultiChainAvatarPicker
+2024-08-09T08:56:08.361Z [INFO] account: Setting Multichain Account Icon
+2024-08-09T08:56:08.380Z [INFO] generic: Visited screen: Home
+2024-08-09T08:56:08.632Z [INFO] account: Finished fetching all accounts. Num accounts: 1
+2024-08-09T08:56:09.044Z [INFO] account: Finished fetching selected account. account.id: 47686f8507afbe2463c6a12d0be02725de6b1f27b2d835f50f0eee7b171906d0
+2024-08-09T08:56:12.263Z [INFO] generic: Visited screen: MultiChainYourAccounts
+2024-08-09T08:56:16.313Z [INFO] generic: Visited screen: Home
+2024-08-09T08:56:17.329Z [INFO] generic: Visited screen: MultiChainSettings
+2024-08-09T08:56:19.223Z [INFO] generic: Visited screen: MultiChainPreferenceSettings
+2024-08-09T08:56:25.827Z [INFO] generic: Visited screen: MultiChainPreferredBitcoinAddress
+2024-08-09T08:56:28.109Z [INFO] account: Finished fetching all accounts. Num accounts: 1
+2024-08-09T08:56:28.591Z [INFO] account: Finished fetching selected account. account.id: 47686f8507afbe2463c6a12d0be02725de6b1f27b2d835f50f0eee7b171906d0
+2024-08-09T08:56:29.647Z [INFO] generic: Visited screen: MultiChainPreferenceSettings
+2024-08-09T08:56:31.061Z [INFO] generic: Visited screen: ChangeAppIcon
+2024-08-09T08:56:34.913Z [INFO] generic: Visited screen: MultiChainPreferenceSettings
+2024-08-09T08:56:36.560Z [INFO] generic: Visited screen: MultiChainPreferredExplorers
+2024-08-09T08:56:53.321Z [INFO] generic: Visited screen: MultiChainPreferenceSettings
+2024-08-09T08:56:55.946Z [INFO] generic: Visited screen: NotificationPreferences
+2024-08-09T08:56:58.218Z [INFO] generic: Visited screen: MultiChainPreferenceSettings
+2024-08-09T08:56:59.330Z [INFO] generic: Visited screen: NotificationPreferences
+2024-08-09T08:57:00.452Z [INFO] generic: Visited screen: MultiChainPreferenceSettings
+2024-08-09T08:57:05.338Z [INFO] generic: Visited screen: MultiChainPreferredExplorers
+2024-08-09T08:57:07.935Z [INFO] generic: Visited screen: MultiChainPreferenceSettings
+2024-08-09T08:57:09.210Z [INFO] generic: Visited screen: MultiChainSettings
+2024-08-09T08:57:11.372Z [INFO] generic: Visited screen: MultiChainSecurity
+2024-08-09T08:57:17.092Z [INFO] generic: Visited screen: RequireAuthentication
+2024-08-09T08:57:20.043Z [INFO] generic: Visited screen: MultiChainSecurity
+2024-08-09T08:57:22.444Z [INFO] generic: Visited screen: RequireAuthentication
+2024-08-09T08:57:28.755Z [INFO] generic: Visited screen: MultiChainSecurity
+2024-08-09T08:57:34.285Z [INFO] generic: Visited screen: DownloadApplicationLogs
